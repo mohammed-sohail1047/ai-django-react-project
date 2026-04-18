@@ -76,7 +76,7 @@ OPENROUTER_API_KEY=your_api_key_here
 
 🧪 API Endpoint
 POST Request
-http://127.0.0.1:8000/api/process/
+http://127.0.0.1:8000/ai/process/
 Request Body
 {
   "prompt": "What is Ai"
@@ -85,13 +85,14 @@ Request Body
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./Screenshots/homepage.png)
+![Home](Screenshots/homepage.png)
 
 ### 🤖 AI Response
-![Response](./Screenshots/response.png)
-UI Interface
-AI Response Output
-API Testing (Postman)
+![Response](Screenshots/response.png)
+
+###API Testing (Postman)
+
+![Response](Screenshots/Postman-response.png)
 🎯 Future Improvements
 🔐 User Authentication (JWT)
 💬 Chat history with sessions
