@@ -31,6 +31,8 @@ def get_openrouter_response(prompt):
 
         if response.status_code == 200:
             res_json = response.json()
+            if "error" in res_json:
+                return f"AI Error: {res_json['error']['message']}"
             return res_json['choices'][0]['message']['content']
         else:
             return f"API Error: {response.text}"
