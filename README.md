@@ -90,9 +90,9 @@ Request Body
 ### 🤖 AI Response
 ![Response](Screenshots/response.png)
 
-###API Testing (Postman)
+### 📡 API Testing (Postman)
+![Postman](Screenshots/Postman-response.png)
 
-![Response](Screenshots/Postman-response.png)
 🎯 Future Improvements
 🔐 User Authentication (JWT)
 💬 Chat history with sessions
