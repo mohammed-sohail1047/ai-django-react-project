@@ -85,13 +85,13 @@ Request Body
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](Screenshots/homepage.png)
+![Home](https://raw.githubusercontent.com/mohammed-sohail1047/ai-django-react-project/main/Screenshots/homepage.png)
 
 ### 🤖 AI Response
-![Response](Screenshots/response.png)
+![Response](https://raw.githubusercontent.com/mohammed-sohail1047/ai-django-react-project/main/Screenshots/response.png)
 
 ### 📡 API Testing (Postman)
-![Postman](Screenshots/Postman-response.png)
+![Postman](https://raw.githubusercontent.com/mohammed-sohail1047/ai-django-react-project/main/Screenshots/Postman-response.png)
 
 🎯 Future Improvements
 🔐 User Authentication (JWT)
