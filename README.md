@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API-OpenRouter-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-Django ORM-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django ORM-red?style=for-the-badge"/>
   
 </p>
 
