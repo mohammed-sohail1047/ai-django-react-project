@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/Backend-Django-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API-OpenRouter-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-Django ORM-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-Django ORM-red?style=for-the-badge"/>
   
 </p>
 
