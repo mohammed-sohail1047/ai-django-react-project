@@ -127,4 +127,4 @@ STATIC_URL = 'static/'
 CORS_ALLOW_ALL_ORIGINS = True
 
 # Default primary key field type
-OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = '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'
